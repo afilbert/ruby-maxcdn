@@ -14,6 +14,6 @@ Gem::Specification.new do |gem|
   gem.authors = ["Joshua P. Mervine"]
   gem.add_dependency 'signet', '~> 0.7'
   gem.add_dependency 'faraday', '~> 0.9'
-  gem.add_dependency 'net-http-persistent', '~> 2.9'
+  gem.add_dependency 'net-http-persistent', '~> 3.0'
   gem.add_dependency 'addressable', '~> 2.4'
 end
